@@ -1,0 +1,8 @@
+{
+  "name": "Monic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "323d00c4"
+}
